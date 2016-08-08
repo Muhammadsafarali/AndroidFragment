@@ -2,9 +2,10 @@
 
 Статьи, посвященные созданию фрагментов по ссылке [1][id1] и [2][id2]
 
-Описание:
+##Описание:
 
 ![image1](http://startandroid.ru/images/stories/lessons/L0109/L0109_020.JPG)
+
 ![image2](http://developer.alexanderklimov.ru/android/images/listfragment7.png)
 
 
